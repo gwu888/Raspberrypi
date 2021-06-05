@@ -1,0 +1,8 @@
+  369  git status
+  371  git add bin
+  372  git add Desktop/
+  377  git add data
+  373  git commit -m "first commit"
+  374  git push -u origin master
+  385  git commit -m "second commit"
+  387  git push -u origin master
