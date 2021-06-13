@@ -1,0 +1,19 @@
+
+
+How to connect Cap5 cable to outside?
+
+1 - relay no 1 (Orange)
+2 - black (ground)
+3 - relay no 2 (Green)
+4 - black (ground)
+5 - relay no 3 (Gray)
+6 - black (ground)
+7 - Water meter Pulse (Brown)
+8 - black (ground)
+
+
+Power Supply:
+
+Yellow: 12V -- connect to "Common" of all of 4 Relays
+Red:    5V -- connect to Pi 5V
+Black:  Ground - to all Cap5 Ground

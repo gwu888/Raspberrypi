@@ -8,6 +8,7 @@ GPIO.setup(25, GPIO.IN, pull_up_down=GPIO.PUD_DOWN)   # set GPIO25 as input, and
 
 pulse_count = 0
 
+# this function will be used as a callback function whenever a event arrived:
 def callback_function_pulse_counter(input_pin): 
   global pulse_count
   pulse_count = pulse_count + 1
